@@ -1,0 +1,15 @@
+D:\my_folder\GeekBrains\c#\seminar_3\task001\bin\Debug\net6.0\task001.exe
+D:\my_folder\GeekBrains\c#\seminar_3\task001\bin\Debug\net6.0\task001.deps.json
+D:\my_folder\GeekBrains\c#\seminar_3\task001\bin\Debug\net6.0\task001.runtimeconfig.json
+D:\my_folder\GeekBrains\c#\seminar_3\task001\bin\Debug\net6.0\task001.dll
+D:\my_folder\GeekBrains\c#\seminar_3\task001\bin\Debug\net6.0\task001.pdb
+D:\my_folder\GeekBrains\c#\seminar_3\task001\obj\Debug\net6.0\task001.csproj.AssemblyReference.cache
+D:\my_folder\GeekBrains\c#\seminar_3\task001\obj\Debug\net6.0\task001.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_folder\GeekBrains\c#\seminar_3\task001\obj\Debug\net6.0\task001.AssemblyInfoInputs.cache
+D:\my_folder\GeekBrains\c#\seminar_3\task001\obj\Debug\net6.0\task001.AssemblyInfo.cs
+D:\my_folder\GeekBrains\c#\seminar_3\task001\obj\Debug\net6.0\task001.csproj.CoreCompileInputs.cache
+D:\my_folder\GeekBrains\c#\seminar_3\task001\obj\Debug\net6.0\task001.dll
+D:\my_folder\GeekBrains\c#\seminar_3\task001\obj\Debug\net6.0\refint\task001.dll
+D:\my_folder\GeekBrains\c#\seminar_3\task001\obj\Debug\net6.0\task001.pdb
+D:\my_folder\GeekBrains\c#\seminar_3\task001\obj\Debug\net6.0\task001.genruntimeconfig.cache
+D:\my_folder\GeekBrains\c#\seminar_3\task001\obj\Debug\net6.0\ref\task001.dll
