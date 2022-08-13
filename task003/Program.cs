@@ -11,9 +11,9 @@ Console.WriteLine("Введите число x2: ");
 double X2 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите число у2: ");
 double У2 = Convert.ToDouble(Console.ReadLine());
-double length = Math.Sqrt((X2-X1)*(X2-X1)+(У2-У1)*(У2-У1));
-Console.WriteLine(length);
+//double length = Math.Sqrt((X2-X1)*(X2-X1)+(У2-У1)*(У2-У1));
 
 // второе решение
 
-double length = Math.Sqrt(Math.Pow(X2-X1, 2) + Math.Pow(Y2-Y1, 2));
+double length = Math.Sqrt(Math.Pow(X2-X1, 2) + Math.Pow( У2 - У1, 2));
+Console.WriteLine(length);
